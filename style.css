@@ -1,0 +1,56 @@
+body{
+    text-align: center;
+}
+body h1{
+    font-family: monospace;
+    font-size: 30px;
+    color: darkmagenta;
+    font-weight: bold
+}
+#home{
+    background-color: aliceblue;
+}
+#home img{
+    width: 700px;
+    height: 700px;
+}
+#gv{
+    background-color: lavenderblush;
+}
+#gv img{
+    width: 200px;
+    height: 200px;
+}
+html{
+    scroll-behavior: smooth;
+}
+.links:hover{
+    font-size: 30px;
+    background-color:lavender;}
+.links{
+  
+    display: inline;
+    padding-left: 15px;
+    padding-right: 15px;
+   
+   
+    font-family:monospace;
+    font-size: 25px;
+}.menu{
+    list-style: none;
+    position: fixed;
+ width: 100%;
+    z-index: 10;
+    top:0px;
+    
+    background: white;
+}
+#sl{
+    background-color: lightcyan;
+    
+}
+#sl img{
+    width: 500px;
+    height: 500px;
+}
+    
